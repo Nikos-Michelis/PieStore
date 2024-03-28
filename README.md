@@ -18,7 +18,7 @@
 </ul>
 <h1>Home Page</h1>
 
-![HomePage](https://github.com/Nikos-Michelis/PieStore/assets/92666389/1dd4abd2-695d-487c-8f9d-a6762ab6d115)
+![HomePage](https://github.com/Nikos-Michelis/PieStore/assets/92666389/2fe1490b-fe16-425b-ae6a-a713425eb09c)
 
 <h2>User Registration</h2> 
 
@@ -45,11 +45,9 @@
 
 <h2>(1/2) User Login with cookie(befrore login)</h2>
 
-![LoginWithCookie](https://github.com/Nikos-Michelis/PieStore/assets/92666389/1a198c0a-18f0-4903-a115-d9171a5dd46b)
 
 <h2>(2/2) User Login with cookie(after login)</h2>
 
-![LoginWithCookieSuccess](https://github.com/Nikos-Michelis/PieStore/assets/92666389/525050eb-a0d3-4121-9d4e-118770c9c969)
 
 <h2>Pies Stock</h2>
 
