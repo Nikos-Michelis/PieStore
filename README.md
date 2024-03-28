@@ -19,6 +19,7 @@
 <h1>Home Page</h1>
 
 ![HomePage](https://github.com/Nikos-Michelis/PieStore/assets/92666389/1dd4abd2-695d-487c-8f9d-a6762ab6d115)
+
 <h2>User Registration</h2> 
 
 ![RegisterStep1](https://github.com/Nikos-Michelis/PieStore/assets/92666389/5a9d3e1e-70d1-4f0f-a65d-2a02dedd94af)
