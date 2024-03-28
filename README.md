@@ -44,11 +44,17 @@
 
 ![LoginSuccesful](https://github.com/Nikos-Michelis/PieStore/assets/92666389/83ee9753-3487-4f88-baff-4d4de824443a)
 
-<h2>(1/2) User Login with cookie(befrore login)</h2>
+<h2>(1/3) User Login with cookie(befrore login)</h2>
 
+![LoginWithCookie](https://github.com/Nikos-Michelis/PieStore/assets/92666389/5b25da96-5c52-44c1-9af7-0ce7add3e785)
 
-<h2>(2/2) User Login with cookie(after login)</h2>
+<h2>(2/3) User Login with cookie(after login)</h2>
 
+![LoginWithCookieStep2](https://github.com/Nikos-Michelis/PieStore/assets/92666389/157dc15c-d26a-4cce-b00d-6365636c67e7)
+
+<h2>(3/3) User Login with cookie(when user close the tab and go back again)</h2>
+
+![LoginWithCookieStep3](https://github.com/Nikos-Michelis/PieStore/assets/92666389/f12ab0bf-0611-4cf5-b8f3-77dab4e7e978)
 
 <h2>Pies Stock</h2>
 
