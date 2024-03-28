@@ -52,24 +52,25 @@
 
 <h2>Pies Stock</h2>
 
-![PiesStock](https://github.com/Nikos-Michelis/PieStore/assets/92666389/0b7f6c61-821f-4dc3-9363-3fdda769db14)
+![PiesStock](https://github.com/Nikos-Michelis/PieStore/assets/92666389/0590f596-e1b7-48c7-b68d-f5b2700499cb)
 
 <h2>Pies Details</h2>
 
-![PieDetails](https://github.com/Nikos-Michelis/PieStore/assets/92666389/04f808c8-4662-4bd7-bffe-91b572d660ea)
+![PieDetails](https://github.com/Nikos-Michelis/PieStore/assets/92666389/8d39b651-ddac-412d-9500-041133944491)
 
 <h2>Order Form</h2>
 
-![OrderPiesStep1](https://github.com/Nikos-Michelis/PieStore/assets/92666389/6c67858c-6a42-47a3-9b07-8b708e382577)
+![OrderPiesStep1](https://github.com/Nikos-Michelis/PieStore/assets/92666389/ba81acd9-9b38-4aa2-952e-63d2919c0aee)
 
 <h2>Order Submition</h2>
 
-![OrderSuccesful](https://github.com/Nikos-Michelis/PieStore/assets/92666389/1c7522c9-b642-40e6-b7ff-e81cca63401d)
+![OrderSuccesful](https://github.com/Nikos-Michelis/PieStore/assets/92666389/2d98dbe1-fcee-4d75-93da-0aff04b0be4d)
 
 <h2>Order notification in client</h2>
 
-![VerificationToClient](https://github.com/Nikos-Michelis/PieStore/assets/92666389/d4c92fde-1d3d-4f84-bbe5-56e89ae100b7)
+![VerificationToClient](https://github.com/Nikos-Michelis/PieStore/assets/92666389/0cf735b9-ba19-4326-822f-7b164a26f83b)
 
 <h2>Order notification in PieStore</h2>
 
-![VerificationToStore](https://github.com/Nikos-Michelis/PieStore/assets/92666389/06a0c720-36d9-49e4-bc96-1083cc77be09)
+![VerificationToStore](https://github.com/Nikos-Michelis/PieStore/assets/92666389/234e5b1e-9ca4-4dfe-8ac1-32e09aa4248c)
+
