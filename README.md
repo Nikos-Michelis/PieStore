@@ -22,26 +22,27 @@
 
 <h2>User Registration</h2> 
 
-![RegisterStep1](https://github.com/Nikos-Michelis/PieStore/assets/92666389/5a9d3e1e-70d1-4f0f-a65d-2a02dedd94af)
+![RegisterStep1](https://github.com/Nikos-Michelis/PieStore/assets/92666389/bedba28d-46b5-44d5-bdaf-abaec8a0d993)
 
 <h2>Succesfuly Registration</h2>
 
-![RegisterSuccesfulStage2](https://github.com/Nikos-Michelis/PieStore/assets/92666389/a93356ba-2adb-4dff-93cf-de9394ce5275)
+![RegisterSuccesfulStep2](https://github.com/Nikos-Michelis/PieStore/assets/92666389/259e6c39-b589-4e92-8aa8-0fc7f426ed6f)
+
 <h2>Account Verification</h2>
 
-![RegisterVerifyAccountStep3](https://github.com/Nikos-Michelis/PieStore/assets/92666389/2d51f424-2d52-4ed5-872d-a303aeb9e8a4)
+![RegisterVerifyAccountStep3](https://github.com/Nikos-Michelis/PieStore/assets/92666389/6a21573a-4ce5-42c6-809e-eb19c5ea50aa)
 
 <h2>Account Verification Succesfuly</h2>
 
-![RegisterStepCompleteVerifyStep4](https://github.com/Nikos-Michelis/PieStore/assets/92666389/ba666bd7-2d13-4ca9-9f07-6a3d6becff7d)
+![RegisterStepCompleteVerifyStep4](https://github.com/Nikos-Michelis/PieStore/assets/92666389/ecbc21c3-8976-49b8-8a98-2e9ca80ae9e6)
 
 <h2>User Login</h2>
 
-![LoginStep1](https://github.com/Nikos-Michelis/PieStore/assets/92666389/099cf44e-19d8-4ccc-981e-dec87b898a7e)
+![LoginStep1](https://github.com/Nikos-Michelis/PieStore/assets/92666389/206e4757-2ef8-4a32-b0d8-837e99136039)
 
 <h2>Succesfuly Login</h2>
 
-![LoginSuccesful](https://github.com/Nikos-Michelis/PieStore/assets/92666389/557c9c64-fe38-40ab-9836-f86f342838da)
+![LoginSuccesful](https://github.com/Nikos-Michelis/PieStore/assets/92666389/83ee9753-3487-4f88-baff-4d4de824443a)
 
 <h2>(1/2) User Login with cookie(befrore login)</h2>
 
