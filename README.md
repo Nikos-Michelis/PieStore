@@ -52,7 +52,7 @@
 
 ![LoginWithCookieStep2](https://github.com/Nikos-Michelis/PieStore/assets/92666389/157dc15c-d26a-4cce-b00d-6365636c67e7)
 
-<h2>(3/3) User Login with cookie(when user close the tab and go back again)</h2>
+<h2>(3/3) User login with cookie persists even when the user closes the tab and returns</h2>
 
 ![LoginWithCookieStep3](https://github.com/Nikos-Michelis/PieStore/assets/92666389/f12ab0bf-0611-4cf5-b8f3-77dab4e7e978)
 
