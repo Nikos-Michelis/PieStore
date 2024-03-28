@@ -1,0 +1,35 @@
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<aside>
+    <%!
+        int cntPageVisits = 0;
+    %>
+    <%
+        Integer cntTotalVisits = (Integer) pageContext.getAttribute("counter", PageContext.APPLICATION_SCOPE);
+        if (cntTotalVisits==null)
+            cntTotalVisits=0;
+        cntTotalVisits++;
+
+        pageContext.setAttribute("counter", cntTotalVisits, PageContext.APPLICATION_SCOPE);
+
+        cntPageVisits++;
+
+    %>
+    <div>
+        <p>page visits: <%= cntPageVisits %></p>
+        <p>Totals visits: <%= cntTotalVisits %></p>
+    </div>
+
+    <div class="flipping-card">
+        <div class="offer">
+            <div class="image"><img src="../../images/boureki.jpg" /></div>
+            <div class="price"><span class="old_price">40&euro;</span>36&euro;</div>
+            <h3>Incredible Offer</h3>
+            <p>On 10 spinach pies one is a gift</p>
+            <p>(only for regular customers)</p>
+            <button>Buy now!</button>
+        </div>
+        <div class="front">
+            <div class="item"><span>Unique Day Offer</span></div>
+        </div>
+    </div>
+</aside>
