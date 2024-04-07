@@ -5,17 +5,12 @@ import java.security.SecureRandom;
 import java.util.Base64;
 
 
-/**
- * original code(altered) from: https://www.javaguides.net/2020/02/java-sha-256-hash-with-salt-example.html
- */
-
 public class Crypto {
-    // encryption of password with salt
+    
     public static String hash(String password, String salt) {
 
         String generatedPassword = null;
         try {
-            // use sha-256 because this encryption can be broke from government
             MessageDigest md = MessageDigest.getInstance("SHA-256");
 
             Base64.Decoder decoder = Base64.getDecoder();
@@ -32,7 +27,6 @@ public class Crypto {
         }
         return generatedPassword;
     }
-    // create a salt string with 16bytes
     public static String salt() {
         SecureRandom random = new SecureRandom();
         byte[] salt = new byte[16];
