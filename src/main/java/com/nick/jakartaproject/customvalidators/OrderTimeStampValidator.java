@@ -14,7 +14,6 @@ public class OrderTimeStampValidator implements ConstraintValidator<OrderTimeSta
 
         /*if (timestamps.getHour() < 8 || timestamps.getHour() >= 23){
             return false;
-            // else if the time is over 22 for example 22:01 the return again false
         }else if (timestamps.getMinute() > 0 || timestamps.getSecond() > 0 || timestamps.getNano() > 0){
             return false;
         }*/
