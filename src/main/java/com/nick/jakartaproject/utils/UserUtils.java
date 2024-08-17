@@ -39,16 +39,13 @@ public class UserUtils {
     }
     public static void updateCookieAndSession(HttpServletRequest request, HttpServletResponse response, User userFromCookie){
         System.out.println("user login with cookie");
-        // Log in the user based on the existing cookie
         UserDAO.storeSession(userFromCookie.getUserName(), request.getSession().getId());
         setSessionAttributes(request, userFromCookie);
         createCookie(response, request);
     }
     private static Cookie createCookie(HttpServletResponse response, HttpServletRequest request){
-        // save that session to cookie browser
         Cookie cookieSession = new Cookie(APP_DATA_COOKIE, request.getSession().getId());
-        //cookieSession.setMaxAge(10); // a month
-        cookieSession.setMaxAge(30 * 24 * 60); // a month
+        cookieSession.setMaxAge(30 * 24 * 60);
         response.addCookie(cookieSession);
         return cookieSession;
     }
