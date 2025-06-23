@@ -10,7 +10,7 @@
   <li>User Authorization: Authenticates users and controls access.</li>
   <li>Java Server Pages (JSP): Generates and presents dynamic content.</li>
 </ul>
-<h2>Front-end:</h2>
+<h2>Frontend:</h2>
 <ul>
   <li>HTML</li>
   <li>CSS, SASS</li>
