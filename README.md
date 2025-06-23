@@ -1,5 +1,5 @@
 <h1>The PiesStore serves as a tutorial project through which I honed my skills in mastering fundamental backend components, leveraging the MVC design pattern and Jakarta EE 10.</h1>
-<h2>Back-end:</h2>
+<h2>Backend:</h2>
 <ul>
   <li>Tomcat Web Server: Handles HTTP requests and responses.</li>
   <li>Servlets: Core of Java-based web development for request processing.</li>
